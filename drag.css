@@ -1,0 +1,13 @@
+.body {
+    height: 200px;
+padding: 90px;
+justify-content: center;
+display: flex;
+align-items: center;
+row-gap: 130px;
+transition: 0.9s ease all;
+border: 0.6px dashed green;
+width: 400px;
+background-color: pink;
+       
+    }
